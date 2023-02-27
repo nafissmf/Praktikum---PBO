@@ -1,3 +1,6 @@
+//Nama : Nafis Mufadhal //
+//NIM  : 24060121120033 //
+//Deskripsi : program utama yang memanfaatkan OperasiTitik //
 class Titik{
 	double absis; 
 	double ordinat;
