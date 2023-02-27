@@ -1,3 +1,6 @@
+//Nama : Nafis Mufadhal //
+//NIM  : 24060121120033 //
+//Deskripsi : kelas yang berisi program utama yang memanfaatkan kelas Titik //
 class MTitik{
 	public static void main(String[] args){
 		//titik t1 = (1,2)
