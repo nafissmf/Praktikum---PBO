@@ -1,10 +1,8 @@
 /*
 Nama file	: MOperasiTitik.java
-Pembuat	: Nafis Mufadhal
-NIM		: 24060121120033
-Tanggal	: 1 Maret 2023
-Deskripsi	: Class MOperasiTitik
-Lab		: B1
+Pembuat		: Nafis Mufadhal
+Tanggal		: 1 Maret 2023
+Deskripsi	: Kelas yang berisi program utama yang memanfaatkan kelas operasi titik
 */
 
 class MOperasiTitik {
