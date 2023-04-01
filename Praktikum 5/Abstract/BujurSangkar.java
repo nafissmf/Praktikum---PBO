@@ -11,6 +11,3 @@ public class BujurSangkar extends BangunDatar{
         luas = sisi*sisi;
         return luas;
     }
-    // jika implementeasi metode dari abstrak tidak dibuat maka akan terjadi errpr
-    // dimana file bujursangkat tidak dapat dikompile dan tidak dianggap sebagai inherit abstract dari bangun datar
-}
